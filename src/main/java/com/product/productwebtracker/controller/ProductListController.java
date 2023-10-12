@@ -19,14 +19,14 @@ public class ProductListController {
         this.productListService =  productListService;
     }
 
-
     @GetMapping
     public List<ProductList> findall(){
         return productListService.findAll();
     }
 
     @PostMapping("/{scrumMaster}")
-    public List<ProductList> findByScrumMaster(@PathVariable String scrumMaster){
+    public List<ProductList> findByScrumMaster(
+            @PathVariable String scrumMaster){
         return productListService.findByScrumMaster(scrumMaster);
     }
 

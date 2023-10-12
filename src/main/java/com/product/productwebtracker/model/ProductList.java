@@ -2,12 +2,13 @@ package com.product.productwebtracker.model;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;
 
 import java.util.List;
 
-//@JsonIgnoreProperties(ignoreUnknown = true)
+@JsonIgnoreProperties(ignoreUnknown = true)
 public record ProductList(
         @Id
         @GeneratedValue(strategy = GenerationType.AUTO)

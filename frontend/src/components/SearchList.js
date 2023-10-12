@@ -29,7 +29,7 @@ const SearchList = ({data, setResults}) => {
                     type="search"
                     className="form-control"
                     id="datatable-search-input"
-                    placeholder="Search..."
+                    placeholder="Search by developer or scrum master"
                     value={searchTerm}
                     onChange={e => handleChange(e.target.value)}
                 />

@@ -37,8 +37,9 @@ const Home = ({data, error, isLoading}) => {
                         justifyContent="space-around"
                         alignItems="flex-end"
                     >
-                        <br/>
-                        <AddProductModal />
+                        <button>
+                            <AddProductModal />
+                        </button>
                         <br/>
                     </Grid>
                 </Grid>

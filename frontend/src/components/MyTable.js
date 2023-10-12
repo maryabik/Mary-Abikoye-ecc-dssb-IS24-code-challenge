@@ -128,7 +128,12 @@ const MyTable = ({data}) => {
                                     <TableCell className="item" align="right">{product.startDate}</TableCell>
                                     <TableCell className="item" align="right">{product.methodology}</TableCell>
                                     <TableCell className="item" align="right">
-                                        <Link href={product.location} color="primary" underline="hover">{product.location}</Link>
+                                        <Link href={product.location}
+                                              color="primary"
+                                              target="_blank"
+                                              underline="hover">
+                                            {product.location}
+                                        </Link>
                                     </TableCell>
                                     <TableCell className="item" align="right">
                                         <EditForm

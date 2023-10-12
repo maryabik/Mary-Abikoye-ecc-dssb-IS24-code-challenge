@@ -46,7 +46,7 @@
     "scrumMasterName":"Salvidor Halwood",
     "startDate":"8/29/2023",
     "methodology":"Waterfall",
-    "location":"https://github.com/bcgov/BC-Policy-Framework-For-GitHub"
+    "location":"https://github.com/bcgov/api-guidelines"
   },
   {
     "id":4,
@@ -60,7 +60,7 @@
     "scrumMasterName":"Carlyn Sparrowe",
     "startDate":"8/4/2023",
     "methodology":"Waterfall",
-    "location":"csparrowe3@dell.com"
+    "location":"https://github.com/bcgov/api-guidelines"
   },
   {
     "id":5,
@@ -92,7 +92,7 @@
     "scrumMasterName":"Maurene Kitchingman",
     "startDate":"5/24/2023",
     "methodology":"Agile",
-    "location":"mkitchingman5@acquirethisname.com"
+    "location":"https://github.com/bcgov/api-guidelines"
   },
   {
     "id":7,
@@ -109,7 +109,7 @@
     "scrumMasterName":"Rora Whatsize",
     "startDate":"10/18/2023",
     "methodology":"Agile",
-    "location":"rwhatsize6@princeton.edu"
+    "location":"https://github.com/bcgov/design-system"
   },
   {
     "id":8,
@@ -126,7 +126,7 @@
     "scrumMasterName":"Sully Walshe",
     "startDate":"6/11/2023",
     "methodology":"Agile",
-    "location":"swalshe7@who.int"
+    "location":"https://github.com/bcgov/design-system"
   },
   {
     "id":9,
@@ -143,7 +143,7 @@
     "scrumMasterName":"Octavia Kintzel",
     "startDate":"8/30/2023",
     "methodology":"Waterfall",
-    "location":"okintzel8@tumblr.com"
+    "location":"https://github.com/bcgov/design-system"
   },
   {
     "id":10,
@@ -160,7 +160,7 @@
     "scrumMasterName":"Cody Tranmer",
     "startDate":"8/30/2023",
     "methodology":"Agile",
-    "location":"ctranmer9@state.gov"
+    "location":"https://github.com/bcgov/developer-experience-team"
   },
   {
     "id":11,
@@ -177,7 +177,7 @@
     "scrumMasterName":"Traver Ivel",
     "startDate":"8/21/2023",
     "methodology":"Agile",
-    "location":"tivela@imageshack.us"
+    "location":"https://github.com/bcgov/developer-experience-team"
   },
   {
     "id":12,
@@ -191,7 +191,7 @@
     "scrumMasterName":"Rice Robrow",
     "startDate":"5/1/2023",
     "methodology":"Agile",
-    "location":"rrobrowb@tripod.com"
+    "location":"https://github.com/bcgov/developer-experience-team"
   },
   {
     "id":13,
@@ -206,7 +206,7 @@
     "scrumMasterName":"Kenn de Mullett",
     "startDate":"4/18/2023",
     "methodology":"Agile",
-    "location":"kdec@godaddy.com"
+    "location":"https://github.com/bcgov/developer-experience-team"
   },
   {
     "id":14,
@@ -223,7 +223,7 @@
     "scrumMasterName":"Chelsey Paik",
     "startDate":"7/26/2023",
     "methodology":"Waterfall",
-    "location":"cpaikd@pagesperso-orange.fr"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":15,
@@ -240,7 +240,7 @@
     "scrumMasterName":"Norby Mazella",
     "startDate":"10/26/2023",
     "methodology":"Agile",
-    "location":"nmazellae@bizjournals.com"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":16,
@@ -257,7 +257,7 @@
     "scrumMasterName":"Putnam McGerr",
     "startDate":"6/15/2023",
     "methodology":"Waterfall",
-    "location":"pmcgerrf@parallels.com"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":17,
@@ -274,7 +274,7 @@
     "scrumMasterName":"Jobey Nisard",
     "startDate":"9/10/2023",
     "methodology":"Agile",
-    "location":"jnisardg@ustream.tv"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":18,
@@ -291,7 +291,7 @@
     "scrumMasterName":"Arielle Franzelini",
     "startDate":"10/22/2023",
     "methodology":"Waterfall",
-    "location":"afranzelinih@webnode.com"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":19,
@@ -305,7 +305,7 @@
     "scrumMasterName":"Sherlock Arnholtz",
     "startDate":"10/27/2023",
     "methodology":"Agile",
-    "location":"sarnholtzi@dropbox.com"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":20,
@@ -318,7 +318,7 @@
     "scrumMasterName":"Jaimie Sirrell",
     "startDate":"10/17/2023",
     "methodology":"Agile",
-    "location":"jsirrellj@dropbox.com"
+    "location":"https://github.com/bcgov/developer-portal"
   },
   {
     "id":21,
@@ -332,7 +332,7 @@
     "scrumMasterName":"Humfrey Yanuk",
     "startDate":"10/14/2023",
     "methodology":"Agile",
-    "location":"hyanukk@blogtalkradio.com"
+    "location":"https://github.com/bcgov/api-guidelines"
   },
   {
     "id":22,
@@ -347,7 +347,7 @@
     "scrumMasterName":"Sabine Tythe",
     "startDate":"4/26/2023",
     "methodology":"Waterfall",
-    "location":"stythel@nba.com"
+    "location":"https://github.com/bcgov/api-guidelines"
   },
   {
     "id":23,
@@ -390,6 +390,6 @@
     "scrumMasterName":"Scot Dumper",
     "startDate":"9/27/2023",
     "methodology":"Waterfall",
-    "location":"sdumpero@constantcontact.com"
+    "location":"https://github.com/bcgov/api-guidelines"
   }
 ]
